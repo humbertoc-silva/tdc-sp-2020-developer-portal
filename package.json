@@ -1,0 +1,23 @@
+{
+  "name": "developer-portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humbertoc-silva/developer-portal.git"
+  },
+  "author": "Humberto Corrêa da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/humbertoc-silva/developer-portal/issues"
+  },
+  "homepage": "https://github.com/humbertoc-silva/developer-portal#readme",
+  "dependencies": {
+    "busboy": "^0.3.1",
+    "express": "^4.17.1"
+  }
+}

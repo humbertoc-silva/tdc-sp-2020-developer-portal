@@ -1,2 +1,2 @@
 #!/bin/bash
-curl --form "specification=@openapi.json" localhost:8080/deploy
+curl --form "specification=@openapi.yaml" localhost:8080/deploy
